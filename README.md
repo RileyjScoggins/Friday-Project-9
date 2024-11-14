@@ -40,4 +40,5 @@ Note: The `.env` file is used to load environment variables securely, so you don
 - **.env file not found:** Ensure the `.env` file is in the correct location (the same directory as the script).
 - **API key not loaded:** Double-check that the API key is correctly set in the .env file and that there are no extra spaces or newlines.
 License
-`This project is open source. You are free to use, modify, and distribute it under the MIT License."""`
+ ```bash
+    This project is open source. You are free to use, modify, and distribute it under the MIT License.""" 
