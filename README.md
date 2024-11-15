@@ -1,6 +1,6 @@
 
 # OpenAI Completion GUI 
-## (Friday Project 9) 
+## (Friday Project 9)   
 
 **IMPORTANT: You will need a `.env` file with your own OpenAI API key to run this project. Please follow the setup instructions below to configure it.**
 
@@ -24,7 +24,9 @@ This is a simple graphical user interface (GUI) application that interacts with 
 2. **Create a .env File**: The application requires an API key from OpenAI. You can get your API key by signing up at OpenAI.
 
     Once you have your API key, create a file named `.env` in the same directory as the script and add your OpenAI API key as follows:
-`OPENAI_API_KEY=your_api_key_here`
+
+    ```bash   
+    OPENAI_API_KEY=your_api_key_here
 
 3. **Running the Application**: After setting up the .env file, you can run the Python script. The application will open a window where you can enter a prompt, and the model's response will be displayed.
 `python your_script_name.py`
