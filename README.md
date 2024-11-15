@@ -1,6 +1,6 @@
 
 # OpenAI Completion GUI 
-## (Friday Project 9:) 
+## (Friday Project 9) 
 
 **IMPORTANT: You will need a `.env` file with your own OpenAI API key to run this project. Please follow the setup instructions below to configure it.**
 
