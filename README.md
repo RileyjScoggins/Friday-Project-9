@@ -25,11 +25,10 @@ This is a simple graphical user interface (GUI) application that interacts with 
     Once you have your API key, create a file named `.env` in the same directory as the script and add your OpenAI API key as follows:
 `OPENAI_API_KEY=your_api_key_here`
 
-Note: The `.env` file is used to load environment variables securely, so you don't expose your API key in the code.
-
 3. **Running the Application**: After setting up the .env file, you can run the Python script. The application will open a window where you can enter a prompt, and the model's response will be displayed.
 `python your_script_name.py`
 
+Note: The `.env` file is used to load environment variables securely, so you don't expose your API key in the code.
 
 ## How it Works:
 - The GUI has a text box where you can enter a prompt.
